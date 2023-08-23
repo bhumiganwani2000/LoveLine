@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134368384454",
+    "project_id": "loveline-b954f",
+    "storage_bucket": "loveline-b954f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134368384454:android:d2bf06f19220d8a4340ec7",
+        "android_client_info": {
+          "package_name": "com.loveline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134368384454-nns2qkq8ofnmnovg5kgmodml996fu2ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0cLNbIBcyFpeKYgKiR7syBI2luB4NHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134368384454-nns2qkq8ofnmnovg5kgmodml996fu2ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

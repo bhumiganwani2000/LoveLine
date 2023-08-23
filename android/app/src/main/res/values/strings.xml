@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveLine</string>
+    <!-- fb -->
+    <string name="facebook_app_id">729644172297688</string>
+<!-- google -->
+ <string name="AdAppID">1:498354268624:android:975320573574227059f1d5</string>
+</resources>
